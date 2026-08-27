@@ -1,0 +1,6 @@
+{
+  "name": "JOBSPHERE",
+  "description": "Comprehensive career acceleration platform featuring educational-to-career profile timelines, courses, job applications, resume builder, interview prep, and instant logical assessment challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
